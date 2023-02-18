@@ -252,7 +252,7 @@ https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000
 #EXTINF:-1 tvg-id="angiang" group-title="Địa Phương" tvg-logo="https://i.ibb.co/SxYXM9b/108.png", An Giang
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương" tvg-logo="https://i.ibb.co/P4xgSCG/113.png" catchup="append" catchup-days="2" catchup-source="https://tv.thbl.vn/replay/index.php/tv/${start}_${end}.m3u8", BLTV HD | TH Bạc Liêu
+#EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương" tvg-logo="https://i.ibb.co/P4xgSCG/113.png" catchup="append" catchup-days="2" catchup-source="https://tv.thbl.vn/replay/index.php/tv/${start}_${end}.m3u8", Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8 
 #EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/Logo_THBT_B%E1%BA%BFn_Tre_m%E1%BB%9Bi_%282022_-_Logo_m%C3%A0n_h%C3%ACnh%2C_B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/1000?cb=20220304134801&path-prefix=vi", Bến Tre
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -428,4 +428,5 @@ http://live.vthanhtivi.pw/vtv3
 http://live.vthanhtivi.pw/vtv5
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/pc6nPic.png", VTV Cần Thơ (50 FPS)
 http://live.vthanhtivi.pw/vtvct
+
 
