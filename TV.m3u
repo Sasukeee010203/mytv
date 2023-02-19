@@ -246,7 +246,7 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/Logo_THBT_B%E1%BA%BFn_Tre_m%E1%BB%9Bi_%282022_-_Logo_m%C3%A0n_h%C3%ACnh%2C_B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/1000?cb=20220304134801&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/tonghop/thbt/dvr-${start}-${offset}.m3u8", Bến Tre
-https://s7784.cdn.mytvnet.vn/v5live.m3u8?c=vstv336&q=hd&deviceType=127&userId=11256503&deviceId=&type=tv&p=0&zn=netott&rkey=11256503aChFW9gb&ctl=9.41&hc=ctl13&sl=6&drmsrv=ctl13.mytvnet.vn&naddr=123.29.77.84&pkg=pkg13.hni&profiles=hd,sd,high,medium&&bhd=6000000&bsd=3000000&bhi=1500000&bme=1000000&location=BTE&rbk=17216240184&pnode=172.16.55.22&isp=all
+https://api.vthanhtivi.pw/v2/getlink/mytv/167/hd.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://i.ibb.co/3NFRMLS/116.png",BTV1 - Bình Dương 1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8 
@@ -292,9 +292,7 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://i.ibb.co/yR46snn/158.png", Long An
 https://la34.vncdn.vn/live/LA34AAA/playlist.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://i.ibb.co/GF9mQPT/171.png", Sóc Trăng 1
-https://s7784.cdn.mytvnet.vn/v5live.m3u8?c=vstv201&q=sd&deviceType=127&userId=11256503&deviceId=&type=tv&p=0&zn=netott&rkey=112565036oJVBcon&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.77.84&pkg=pkg13.hni&profiles=sd,high,medium&&bsd=3000000&bhi=1500000&bme=1000000&location=BTE&rbk=17216240185&pnode=172.16.55.22&isp=all
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/OozNLx6.png", Sóc Trăng 2
-http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8 
+https://api.vthanhtivi.pw/v2/getlink/mytv/52/hd.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa Phương" tvg-logo="https://i.ibb.co/HF1XqG3/174.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/mytv/53/auto/dvr-${start}-${end}.m3u8", Tây Ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon/tay-ninh-3/playlist.m3u8 
@@ -418,6 +416,10 @@ http://live.vthanhtivi.pw/vtv3
 http://live.vthanhtivi.pw/vtv5
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/pc6nPic.png", VTV Cần Thơ (50 FPS)
 http://live.vthanhtivi.pw/vtvct
+
+
+
+
 
 
 
