@@ -303,7 +303,7 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://i.ibb.co/yR46snn/158.png", Long An
 https://la34.vncdn.vn/live/LA34AAA/playlist.m3u8
-#EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/STV1_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20211020141313&path-prefix=vi", STV1 | TH Sóc Trăng
+#EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/STV1_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20211020141313&path-prefix=vi", Sóc Trăng
 https://api.vthanhtivi.pw/v2/getlink/mytv/52/hd.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa Phương" tvg-logo="https://i.ibb.co/HF1XqG3/174.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/mytv/53/auto/dvr-${start}-${end}.m3u8", Tây Ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -324,8 +324,6 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/mytv/404/hd.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://i.ibb.co/z7ZSfbG/134.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/mytv/95/auto/dvr-${start}-${end}.m3u8", Đồng Nai 2
 https://api.vthanhtivi.pw/v2/getlink/tv360/255/3.m3u8 
-#EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/bFkn8Di.png", Đồng Nai 3
-https://api.vthanhtivi.pw/v2/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://i.ibb.co/m6f3Rqp/150.png", Khánh Hòa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
