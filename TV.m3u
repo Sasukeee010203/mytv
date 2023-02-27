@@ -127,8 +127,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8?kiptv|Referer=
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv4.m3u8?kiptv|Referer=http://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20220223142109&path-prefix=vi", SCTV6
 #EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8 
-#EXTINF:-1 tvg-id="SCTV7hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/SCTV7_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20221019225816&path-prefix=vi SCTV7
+https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8  
+#EXTINF:-1 tvg-id="SCTV7hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/SCTV7_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20221019225816&path-prefix=vi", SCTV7
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="SCTV8hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/SCTV8_logo_2019.png/revision/latest/scale-to-width-down/1568?cb=20220223142115&path-prefix=vi", SCTV8
@@ -169,7 +169,7 @@ https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8?kiptv|Referer=http://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="SCTV21hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/SCTV21.png/revision/latest/scale-to-width-down/1000?cb=20210821043405&path-prefix=vi", SCTV21
 #EXTVLCOPT:http-user-agent="KIIP"
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8?kiptv|Referer=http://sctvonline.vn/ 
+https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="SCTV22hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/SCTV22_SSport_1_2020.png/revision/latest/scale-to-width-down/1000?cb=20220805120233&path-prefix=vi", SCTV22
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/ 
