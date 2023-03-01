@@ -4,15 +4,19 @@ http://live-ali2.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.imgur.com/EJwWXul.png", Vĩnh Long 2 HD
 http://live-ali2.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://i.imgur.com/ZJyrka9.png", Vĩnh Long 3 HD
-http://27.67.80.201:18080//250_2.m3u8?AdaptiveType=HLS&SessionID=07e195b8-fe60-419e-9f20-3e6fb8e74b80&MinBw=0&MaxBw=20000000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://27.67.80.201:18080//250_2.m3u8?AdaptiveType=HLS&SessionID=e8bbba62-8ac2-43c9-b6c2-60ef0c09c0cd&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THVL4_HD_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411075604&path-prefix=vi", Vĩnh Long 4 HD
 http://live-ali2.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vZYlGIW.png", VTV1
-http://171.238.181.57:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=55460d95-fd5b-4464-9428-1855c12c6b3f&MinBw=0&MaxBw=20000000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://171.238.181.54:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=90f5a2d3-7145-4fef-b932-4443815f6ab1&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/qWWpYRR.png", VTV2
-http://171.238.181.71:18080//192_2.m3u8?AdaptiveType=HLS&SessionID=c7a98c7c-c1d3-4fe0-8c36-eb63193380df&MinBw=0&MaxBw=20000000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://171.238.181.56:18080//192_2.m3u8?AdaptiveType=HLS&SessionID=923550c4-6955-4bf1-8658-4180118ebbfc&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/WsLLmR2.png", VTV3
-http://27.67.64.133:18080//155_2.m3u8?AdaptiveType=HLS&SessionID=a6c635ad-95f8-4520-8ed7-1b2b34acb61e&MinBw=0&MaxBw=2000000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://171.238.181.7:18080//155_2.m3u8?AdaptiveType=HLS&SessionID=0125beb9-3a91-4d86-9372-9d16ed81167c&MinBw=0&MaxBw=2000000
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/WsLLmR2.png", VTV4
 http://live-ali2.tv360.vn/manifest/VTV4_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/Vnnna1C.png", VTV5
