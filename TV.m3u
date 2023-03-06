@@ -83,13 +83,13 @@ https://856175157.r.vtvcdn.com/hls/HAY_TV_kitlkgmndj/sc-gaFEAQ/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/ON_O2TV.png/revision/latest/scale-to-width-down/200?cb=20221211044258&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/dvr-${start}-${offset}.m3u8", ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/ON_Info_TV.png/revision/latest?cb=20230228111228&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58/dvr-${start}-${offset}.m3u8", ON Info
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/ON_Info_TV.png/revision/latest?cb=20230228111228&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58/dvr-${start}-${offset}.m3u8", ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/ON_Cine_logo_08-09-2021.png/revision/latest?cb=20211025031108&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/f7aaa051-d67c-4131-a486-98699d4c9863/dvr-${start}-${offset}.m3u8", ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/f7aaa051-d67c-4131-a486-98699d4c9863/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/ON_Style_TV.png/revision/latest/scale-to-width-down/1000?cb=20230301044252&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/dvr-${start}-${offset}.m3u8", ON Style
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/ON_Style_TV.png/revision/latest/scale-to-width-down/1000?cb=20230301044252&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/dvr-${start}-${offset}.m3u8", ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/ON_Music_logo.png/revision/latest/scale-to-width-down/200?cb=20221211044556&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/dvr-${start}-${offset}.m3u8", ON Music
@@ -293,7 +293,7 @@ https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 http://103.90.220.236/bptvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hometvbptv2" group-title="Địa Phương" tvg-logo="https://i.ibb.co/R9g80Gv/123.png", Bình Phước 2
 http://103.90.220.236/bptvlive/tv2live.m3u8
-#EXTINF:-1 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://i.ibb.co/Xs0nf0N/125.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/123/auto/dvr-${start}-${end}.m3u8", CTV HD | TH Cà Mau
+#EXTINF:-1 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://i.ibb.co/Xs0nf0N/125.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/123/auto/dvr-${start}-${end}.m3u8", Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8 
 #EXTINF:-1 tvg-id="cantho" group-title="Địa Phương" tvg-logo="https://i.ibb.co/6stS2Qx/126.png", Cần Thơ
