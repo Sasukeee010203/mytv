@@ -421,7 +421,7 @@ https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="afnhd" tvg-logo="https://i.ibb.co/0rkzQPV/afn.png",Asian Food Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.ibb.co/dmSx5Yf/cna.png", CNA
+#EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.ibb.co/dmSx5Yf/cna.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="france24eng" tvg-logo="https://i.ibb.co/gMbGz1V/FRANCE.png",France 24 English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
