@@ -316,7 +316,7 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://i.ibb.co/yR46snn/158.png", Long An
 https://la34.vncdn.vn/live/LA34AAA/playlist.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/STV1_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20211020141313&path-prefix=vi", Sóc Trăng
-https://code.vthanhtivi.pw/v2/getlink/mytv/52/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/52/hd.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa Phương" tvg-logo=" https://i.ibb.co/HF1XqG3/174.png ", Tây Ninh TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8 
