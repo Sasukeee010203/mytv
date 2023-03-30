@@ -433,12 +433,12 @@ https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="dw" tvg-logo="https://i.ibb.co/0h8xcrR/DW.png",DW 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vZYlGIW.png", VTV1 (Độ trễ thấp)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vZYlGIW.png", VTV1 (50 FPS)
 http://live.vthanhtivi.pw/vtv1
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png", VTV3 (Độ trễ thấp)
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png", VTV3 (50 FPS)
 http://live.vthanhtivi.pw/vtv3
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/Vnnna1C.png", VTV5 (Độ trễ thấp)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/Vnnna1C.png", VTV5 (50 FPS)
 http://live.vthanhtivi.pw/vtv5
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/Mqmbsj4.png", VTV Cần Thơ (Độ trễ thấp)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/Mqmbsj4.png", VTV Cần Thơ (50 FPS)
 http://live.vthanhtivi.pw/vtvct
 
