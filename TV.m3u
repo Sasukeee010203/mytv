@@ -270,24 +270,23 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://i.imgur.com/l8Ae26m.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/tonghop/thbt/dvr-${start}-${offset}.m3u8", Bến Tre
 https://code.vthanhtivi.pw/getlink/mytv/167/hd.m3u8 
-#EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Soe6MC8.png", Bình Dương 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pEaPECX.png", Bình Dương 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/BTV1_08-2021_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20230222061451&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/402/auto/dvr-${start}-${end}.m3u8", Bình Dương 1
+https://code.vthanhtivi.pw/getlink/mytv/402/hd.m3u8
+#EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/BTV2_HD.png/revision/latest/scale-to-width-down/1000?cb=20230131025131&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/38/auto/dvr-${start}-${end}.m3u8", Bình Dương 2
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/BTV3_HD_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20221127045848&path-prefix=vi", Bình Dương 3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/BTV3_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20221127045845&path-prefix=vi", Bình Dương 3
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhduong4" group-title="Địa Phương" tvg-logo="https://i.imgur.com/s84z1mZ.png", Bình Dương 4
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#EXTINF:-1 tvg-id="binhduong4" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/BTV4_logo_03-2022.png/revision/latest/scale-to-width-down/1000?cb=20220309025646&path-prefix=vi", Bình Dương 4
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="binhduong6" group-title="Địa Phương" tvg-logo="https://i.imgur.com/fDZIkFv.png", Bình Dương 6
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#EXTINF:-1 tvg-id="binhduong6" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f7/BTV6_2022.png/revision/latest/scale-to-width-down/1000?cb=20221231045716&path-prefix=vi", Bình Dương 6
+#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NFxEKVl.png", Bình Dương 9
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="anvienhd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NFxEKVl.png", Bình Dương 9 - An Viên TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa Phương" tvg-logo="https://i.ibb.co/0sDGk57/122.png", Bình Phước 1
 http://103.90.220.236/bptvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hometvbptv2" group-title="Địa Phương" tvg-logo="https://i.ibb.co/R9g80Gv/123.png", Bình Phước 2
@@ -329,16 +328,16 @@ https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="Địa Phương" tvg-logo="https://i.ibb.co/vkyXFLS/109.png", Bà Rịa Vũng Tàu
 http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://i.ibb.co/TRhDWXc/128.png", Đà Nẵng 1
+#EXTINF:-1 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://i.ibb.co/TRhDWXc/128.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/90/auto/dvr-${start}-${end}.m3u8", Đà Nẳng 1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://i.ibb.co/WfkF17J/129.pngs/129.png", Đà Nẵng 2
+#EXTINF:-1 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://i.ibb.co/WfkF17J/129.pngs/129.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/60/auto/dvr-${start}-${end}.m3u8", Đà Nẳng 2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/x7NLopc.png", Đồng Nai 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/FEVaoJH.png", Đồng Nai 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dc/%C4%90N1-RTV_HD.png/revision/latest/scale-to-width-down/1000?cb=20211025150543&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/404/auto/dvr-${start}-${end}.m3u8", Đồng Nai 1
+https://code.vthanhtivi.pw/getlink/mytv/404/hd.m3u8
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0f/%C4%90N2-RTV_HD.png/revision/latest/scale-to-width-down/1000?cb=20211025160444&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/95/auto/dvr-${start}-${end}.m3u8", Đồng Nai 2
+https://code.vthanhtivi.pw/getlink/tv360/255/3.m3u8
+#EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/%C4%90N3_logo_2018_v2.png/revision/latest/scale-to-width-down/1000?cb=20211207103043&path-prefix=vi", Đồng Nai 3
+https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://i.ibb.co/m6f3Rqp/150.png", Khánh Hòa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
@@ -354,7 +353,7 @@ https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANIMAX HD
+#EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANIMAX HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
@@ -372,7 +371,6 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="Khám phá" tvg-logo="https://i.imgur.com/AMyifk1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8 
-
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
