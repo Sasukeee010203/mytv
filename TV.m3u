@@ -270,9 +270,9 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://i.imgur.com/l8Ae26m.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/tonghop/thbt/dvr-${start}-${offset}.m3u8", Bến Tre
 https://code.vthanhtivi.pw/getlink/mytv/167/hd.m3u8 
-#EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/BTV1_08-2021_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20230222061451&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/402/auto/dvr-${start}-${end}.m3u8", Bình Dương 1
+#EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/BTV1_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20211101113850&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/402/auto/dvr-${start}-${end}.m3u8", Bình Dương 1
 https://code.vthanhtivi.pw/getlink/mytv/402/hd.m3u8
-#EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/BTV2_HD.png/revision/latest/scale-to-width-down/1000?cb=20230131025131&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/38/auto/dvr-${start}-${end}.m3u8", Bình Dương 2
+#EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/71/BTV2_logo_2018.png/revision/latest/scale-to-width-down/1000?cb=20230131025122&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/38/auto/dvr-${start}-${end}.m3u8", Bình Dương 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/BTV3_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20221127045845&path-prefix=vi", Bình Dương 3
