@@ -345,10 +345,10 @@ https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+http://live.vthanhtivi.pw/hbo
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://i.ibb.co/52qD5Hh/cinemax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8 
+http://live.vthanhtivi.pw/cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 #EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
 #EXTVLCOPT:http-user-agent=VThanhTivi
