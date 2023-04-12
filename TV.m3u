@@ -193,12 +193,12 @@ https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/HXkZtdX.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc5-hd/dvr-${start}-${offset}.m3u8", VTC5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtc5-hd/playlist.m3u8
+https://livecdn.fptplay.net/sdb/vtc5_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/KCzAWTU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/EeGAtuK.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc7-todaytv-hd/dvr-${start}-${offset}.m3u8", VTC7 HD - TodayTV
-https://s7772.cdn.mytvnet.vn/v5live.m3u8?c=vstv472&q=hd&deviceType=127&userId=11256503&deviceId=&type=tv&p=0&zn=netott&rkey=11256503vzxiNXhe&ctl=9.41&hc=ctl13&sl=6&drmsrv=ctl13.mytvnet.vn&naddr=123.29.77.72&pkg=pkg30.hni&profiles=hd,sd&&bhd=6000000&bsd=3000000&location=RHCM&rbk=17216240184&pnode=172.16.56.77&isp=all|Referer=https://mytv.com.vn/
+https://drm-livecdn.hplus.com.vn/CDN-FPT/TODAYTV-SD-ABR/HTV-ABR/TODAYTV-SD-720p/chunks.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTQuMTg2LjE1NS4yMTQiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTQuMTg2LjE1NS4yMTQiLCJpYXQiOjE2ODEzMDEyMTh9.VEWSxE9eesq4eC0GQj28WFbj3vQBPw0ymJgpgJ4Zk7OwMxLqJHK_B18U2DyW4UKZchCw2Y5EoPtHguX-iKay19FfIFtRM9mRuWPaPmZb-2DOtESGdTxgXxgw2wV9o_1Lxg9wruFWFcVCZW60jW_pKM_wocvZSbSQtUuA90rHQEbZIwFLb4MtAHDMx9dz6vLnZ2XpWU_Iu7kADBcUKdvT_LdLqLCuMw-Zv_hRV6YLehM67q18o3rzil7FKhwlIwckFSmFyjZiDpfxLfdVWgbWiBf5gPLVuVejO1urYUGvkEVTLiZxvsAxTXDsTaR8dt_j41A5yyqija-FyTaePwDsV2yQYZYuWBm5NoNa7tE7IR5H4ApHDA0WBiBtPKDmXMkN8JL45UALPuaz-WVSNkclhBYYK6Psax_h_rrhXAsiN38h64ZWqalFYBjNND4gCkVrZmRatb34JtzZYgU-N_Uud6DVzyevvFdO9DYtV0PuTVXS-Ru1WwRxwK-ypNuHlQ2ViIgFR2zGkYgwembVGT1jdf7fTTgYSvFB03kxwPcxE2aEHZFXf2xkNv4N6Q7sQi8lFhPDIHgUbAowF8qvbpFlaoiSTOn6A81JiaX2fwLJ2AjK9hbdwTuYqWHWyG02lJ1yD9mYIb8MYXubMXWvnY5i7S2xH5x8blYjm3SJF0FqozM
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.imgur.com/VpDVPAD.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc8/dvr-${start}-${offset}.m3u8", VTC8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
