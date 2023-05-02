@@ -140,7 +140,7 @@ https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv14.m3u8?kiptv|Referer=http://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="SCTV15hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/SCTV15_SSport_2_2020.png/revision/latest/scale-to-width-down/1000?cb=20220805120238&path-prefix=vi", SCTV15
 #EXTVLCOPT:http-user-agent="KIIP"
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv15/index.m3u8?kiptv|Referer=http://sctvonline.vn/ 
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8 
 #EXTINF:-1 tvg-id="SCTV16hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/SCTV16-2.png/revision/latest/scale-to-width-down/1000?cb=20210820043927&path-prefix=vi", SCTV16
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/ 
@@ -164,7 +164,7 @@ https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/ 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/SCTV_Phim_T%E1%BB%95ng_H%E1%BB%A3p_logo.png/revision/latest/scale-to-width-down/1000?cb=20220223140705&path-prefix=vi", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent="KIIP"
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/  
+https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8  
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.imgur.com/g6rH1cs.png"catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
