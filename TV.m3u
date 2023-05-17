@@ -367,8 +367,6 @@ https://106d4d2f4.vws.vegacdn.vn/live_dzones/cn.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=594
 https://106d4d2f4.vws.vegacdn.vn/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/Discovery_Asia.png/revision/latest?cb=20211030101622&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
-https://ancom.ga/fptplay_sv2/discovery-asia/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="ngchd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/National_Geographic_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20221214045051&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=527
