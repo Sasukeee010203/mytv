@@ -82,9 +82,9 @@ https://code.vthanhtivi.pw/getlink/tv360/182/0.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsplus
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/HAY_TV/manifest.mpd
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/ON_O2TV.png/revision/latest/scale-to-width-down/200?cb=20221211044258&path-prefix=vi", ON O2TV
-https://856175157.r.vtvcdn.com/hls/O2_TV_CL/sc-gaFEAQ/m30_index.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/27/auto.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/ON_Info_TV.png/revision/latest?cb=20230228111228&path-prefix=vi", ON Info TV
-https://livevlive.vtvcab.vn/hls/INFO_TV_CL/sc-gaFEAQ/m20_index.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/189/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/ON_Cine_logo_08-09-2021.png/revision/latest?cb=20211025031108&path-prefix=vi", ON Cine
 https://code.vthanhtivi.pw/getlink/tv360/176/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/ON_Style_TV.png/revision/latest/scale-to-width-down/1000?cb=20230301044252&path-prefix=vi", ON Style TV
