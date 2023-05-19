@@ -296,7 +296,7 @@ https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 #http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
-#EXTINF:-1 tvg-id="haugiang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/Logo_HGTV_H%E1%BA%ADu_Giang_09-2021.png/revision/latest/scale-to-width-down/1000?cb=20221101130737&path-prefix=vi" , Hậu Giang TV
+#EXTINF:-1 tvg-id="haugiang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/Logo_HGTV_H%E1%BA%ADu_Giang_09-2021.png/revision/latest/scale-to-width-down/1000?cb=20221101130737&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/181/auto/dvr-${start}-${end}.m3u8" , Hậu Giang TV
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8 
 #EXTINF:-1 tvg-id="kiengiang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/KG_Kien_Giang_%28B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/1000?cb=20211021030223&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tv.kgtv.vn/replay/index2.php/kgtv/${start}_${end}.m3u8", Kiên Giang
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -305,9 +305,8 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://i.ibb.co/yR46snn/158.png", Long An
-https://la34.vncdn.vn/live/LA34AAA/playlist.m3u8
+http://103.90.220.236/la34/tvlive-transmux.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/STV1_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20211020141313&path-prefix=vi", Sóc Trăng 1
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://code.vthanhtivi.pw/getlink/mytv/52/hd.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa Phương" tvg-logo=" https://i.ibb.co/HF1XqG3/174.png ", Tây Ninh TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
