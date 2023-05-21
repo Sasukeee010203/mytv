@@ -5,12 +5,11 @@ https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/EJwWXul.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/ZJyrka9.png", Vĩnh Long 3 HD
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/ZJyrka9.png" catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl3/dvr-${start}-${offset}.m3u8", Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8 
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THVL4_HD_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411075604&path-prefix=vi", Vĩnh Long 4 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THVL4_HD_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411075604&path-prefix=vi", catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl4/dvr-${start}-${offset}.m3u8", Vĩnh Long 4 HD
+http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vZYlGIW.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -217,17 +216,14 @@ http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.ibb.co/7rt7fRS/htv2.png" catchup="append" catchup-days="6" catchup-source="https://code.vthanhtivi.pw/xemlai/hplus/htv2-hd-2669/dvr-${start}-${offset}.m3u8", HTV2 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/vwSBL1x/htv3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.ibb.co/Rcrf5gj/htv7.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.ibb.co/KF1hdQD/htv9.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/Y8mr4Hf/HTV-TT.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao (50 FPS)
 http://live-ali4.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/Y8mr4Hf/HTV-TT.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao
@@ -343,17 +339,17 @@ https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/keyhbo.php?c=cinemax_mykplus
 https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
-#EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Animal_Planet_2019.png/revision/latest/scale-to-width-down/1000?cb=20221115045307&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Animal_Planet_2019.png/revision/latest/scale-to-width-down/1000?cb=20221115045307&path-prefix=vi", Animal Planet
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=589
 https://106d4d2f4.vws.vegacdn.vn/live_dzones/ap.smil/manifest.mpd
-#EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20211220011651&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
+#EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20211220011651&path-prefix=vi", Animax HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=469
 https://106d4d2f4.vws.vegacdn.vn/live_dzones/animax.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=592
@@ -383,16 +379,16 @@ https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png", Box Hits
-https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8 
-#EXTINF:-1 tvg-id="axnhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/AXN_2015.png/revision/latest?cb=20221214051545&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+#EXTINF:-1 tvg-id="axnhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/AXN_2015.png/revision/latest?cb=20221214051545&path-prefix=vi", AXN HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=590
 https://106d4d2f4.vws.vegacdn.vn/live_dzones/axn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="dmax" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/DMAX.png/revision/latest/scale-to-width-down/180?cb=20211028100451&path-prefix=vi", DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/841/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/CinemaWorld_2022.png/revision/latest?cb=20220707061525&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
+https://code.vthanhtivi.pw/getlink/cliptv/dmax/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/CinemaWorld_2022.png/revision/latest?cb=20220707061525&path-prefix=vi", CinemaWorld
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=523
@@ -406,12 +402,12 @@ https://106d4d2f4.vws.vegacdn.vn/live_dzones/ftv.smil/manifest.mpd
 https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/200?cb=20211127035204&path-prefix=vi", HGTV
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
-#EXTINF:-1 tvg-id="tlchd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TLC.png/revision/latest/scale-to-width-down/180?cb=20220127035643&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
+#EXTINF:-1 tvg-id="tlchd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TLC.png/revision/latest/scale-to-width-down/180?cb=20220127035643&path-prefix=vi", TLC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=596
 https://106d4d2f4.vws.vegacdn.vn/live_dzones/tlc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/Warner_TV.png/revision/latest/scale-to-width-down/200?cb=20221115050428&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/Warner_TV.png/revision/latest/scale-to-width-down/200?cb=20221115050428&path-prefix=vi", Warner TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=597
