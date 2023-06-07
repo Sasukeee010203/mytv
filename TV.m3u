@@ -153,7 +153,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m
 #EXTINF:-1 tvg-id="SCTV16hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/SCTV16-2.png/revision/latest/scale-to-width-down/1000?cb=20210820043927&path-prefix=vi", SCTV16
 https://synguyen.net/vthanhtivi_getlink/e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV17hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/SCTV17_SSport_2020.png/revision/latest/scale-to-width-down/1000?cb=20220805120235&path-prefix=vi", SCTV17
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_w1434364361_b1692000.m3u8
 #EXTINF:-1 tvg-id="SCTV18hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/SCTV18_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20210820120952&path-prefix=vi", SCTV18
 https://synguyen.net/vthanhtivi_getlink/e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV19hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest/scale-to-width-down/1000?cb=20210820122147&path-prefix=vi", SCTV19
