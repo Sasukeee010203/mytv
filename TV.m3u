@@ -91,7 +91,7 @@ https://code.vthanhtivi.pw/getlink/cliptv/on-o2tv/chunklist_b5128000.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/on-info/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/ON_Cine_logo_08-09-2021.png/revision/latest?cb=20211025031108&path-prefix=vi", ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/on-info/chunklist_b5128000.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/on-cine/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/ON_Style_TV.png/revision/latest/scale-to-width-down/1000?cb=20230301044252&path-prefix=vi", ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/on-style/chunklist_b5128000.m3u8
