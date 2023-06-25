@@ -63,10 +63,10 @@ http://103.90.220.236/vovlive/tv1live.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/ON_Phim_Vi%E1%BB%87t_08-12-2022.png/revision/latest?cb=20221208140657&path-prefix=vi", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab2-on-phim-viet/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab2-on-phim-viet/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/ON_Sports_HD_logo_2022.png/revision/latest?cb=20230104022205&path-prefix=vi", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab3-on-sports/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab3-on-sports/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/ON_Sports_HD_logo_2022.png/revision/latest?cb=20230104022205&path-prefix=vi", ON Sports HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -77,10 +77,10 @@ https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=
 https://code.vthanhtivi.pw/getlink/mytv/435/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/ON_E_Channel.png/revision/latest?cb=20230113092928&path-prefix=vi", ON E Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab5-e-channel/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab5-e-channel/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/On_Sports%2B_logo_03-12-2021.png/revision/latest/scale-to-width-down/1000?cb=20211204042626&path-prefix=vi", ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab6-on-sport-plus/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab6-on-sport-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/On_Sports%2B_logo_03-12-2021.png/revision/latest/scale-to-width-down/1000?cb=20211204042626&path-prefix=vi", ON Sports+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -88,22 +88,22 @@ https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9b
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/HAY_TV/manifest.mpd
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/ON_O2TV.png/revision/latest/scale-to-width-down/200?cb=20221211044258&path-prefix=vi", ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab7/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab7/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/ON_Info_TV.png/revision/latest?cb=20230228111228&path-prefix=vi", ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab9-info-tv/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab9-info-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/ON_Cine_logo_08-09-2021.png/revision/latest?cb=20211025031108&path-prefix=vi", ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab10-on-cine/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab10-on-cine/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/ON_Style_TV.png/revision/latest/scale-to-width-down/1000?cb=20230301044252&path-prefix=vi", ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab12-style-tv/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab12-style-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/ON_Music_logo.png/revision/latest/scale-to-width-down/200?cb=20221211044556&path-prefix=vi", ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab15/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab15/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230104022210&path-prefix=vi", ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab16-on-football/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab16-on-football/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230104022210&path-prefix=vi", ON Football HD
 #https://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -112,10 +112,10 @@ https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9b
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest?cb=20230408041303&path-prefix=vi", ON Trending TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/on-trending/chunklist_b5128000.m3u8
+https://liveh12.vtvcab.vn/hls/YEAH1_TV/03.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220403050655&path-prefix=vi", ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab18-on-sports-news/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab18-on-sports-news/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220403050655&path-prefix=vi", ON Sports News
 #https://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -129,7 +129,7 @@ https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/on-vfamily/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ONLifeChuan-011.jpg", ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/5d856603b997b5c29f7e010e6df50a31637f9bf1/1687660377/vtvcab22-life-tv/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/8915edc096e8cc71fb2d83d7e3b00f234836da3c/1687685979/vtvcab22-life-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/BTV5_HD_logo_07-03-2023.png/revision/latest/scale-to-width-down/200?cb=20230307072459&path-prefix=vi", BTV5 - ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV1_logo_2022.png/revision/latest?cb=20220427230925&path-prefix=vi", SCTV1 
