@@ -377,7 +377,7 @@ http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Fashion_TV.png/revision/latest?cb=20220206052551&path-prefix=vi", Fashion TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=595
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaJibJajlcKZnaKZnaWdlKBpXmJmaA==&time=1687709442&mytv_msky&id=595
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hits" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/HITS.png/revision/latest?cb=20221225101819&path-prefix=vi", HITS
 https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
@@ -392,7 +392,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/CNN.png/revision/latest/scale-to-width-down/250?cb=20211228095017&path-prefix=vi", CNN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=593
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaJibJajlcKZnaKZnaWdlKBpXmJmaA==&time=1687709442&mytv_msky&id=593
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/CNA_logo_2019.png/revision/latest?cb=20220219054404&path-prefix=vi", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
