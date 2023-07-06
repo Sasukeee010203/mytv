@@ -25,13 +25,16 @@ https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/ZwoP823.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
+https://s7769.cdn.mytvnet.vn/v5live.m3u8?c=vstv516&q=hd&deviceType=127&userId=11256503&deviceId=29458832&type=tv&p=0&zn=netott&rkey=11256503QKmfYF2v&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.77.69&pkg=pkg32.hni&profiles=hd,sd&&bhd=6000000&bsd=3000000&location=BTE&rbk=17216241140&pnode=172.16.56.77&isp=all
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/rf9adGJ.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8", VTV8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
+https://s7771.cdn.mytvnet.vn/v5live.m3u8?c=vstv454&q=hd&deviceType=127&userId=11256503&deviceId=29458832&type=tv&p=0&zn=netott&rkey=11256503iRBx7YfU&ctl=9.40&hc=ctl12&sl=6&drmsrv=ctl12.mytvnet.vn&naddr=123.29.77.71&pkg=pkg32.hni&profiles=hd,sd&&bhd=6000000&bsd=3000000&location=BTE&rbk=17216241142&pnode=172.16.56.77&isp=all
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/QiY55sy.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8", VTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
+https://s7771.cdn.mytvnet.vn/v5live.m3u8?c=vstv455&q=hd&deviceType=127&userId=11256503&deviceId=29458832&type=tv&p=0&zn=netott&rkey=11256503D6gaCT7H&ctl=9.41&hc=ctl13&sl=6&drmsrv=ctl13.mytvnet.vn&naddr=123.29.77.71&pkg=pkg32.hni&profiles=hd,sd&&bhd=6000000&bsd=3000000&location=BTE&rbk=17216241142&pnode=172.16.56.77&isp=all
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/FqNKSYq/antv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
