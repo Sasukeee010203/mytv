@@ -322,9 +322,9 @@ https://code.hqth.xyz/getlink/tv360/255/3.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://code.hqth.xyz/getlink/tv360/65/2.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png", HBO HD
-http://live.vthanhtivi.pw/hbo/index.m3u8
+http://live.hqth.xyz/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://i.ibb.co/52qD5Hh/cinemax.png", Cinemax HD
-http://live.vthanhtivi.pw/cinemax/index.m3u8
+http://live.hqth.xyz/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Animal_Planet_2019.png/revision/latest/scale-to-width-down/1000?cb=20221115045307&path-prefix=vi", Animal Planet
 http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20211220011651&path-prefix=vi", Animax HD
