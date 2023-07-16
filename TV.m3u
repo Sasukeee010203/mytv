@@ -209,7 +209,7 @@ https://code.hqth.xyz/getlink/mytv/184/hd.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://code.hqth.xyz/getlink/mytv/32/hd.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/jHJ0Qnp.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC16 HD
-http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
+http://code.hqth.xyz/getlink/mytv/33/hd.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/TL3rgJd/htv1.webp", HTV1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://code.hqth.xyz/getlink/htv/2631/playlist.m3u8
