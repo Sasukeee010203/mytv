@@ -60,7 +60,7 @@ http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://code.vthanhtivi.pw/getlink/mytv/227/hd.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/6yBdmNj/vovhd.png", VOVTV HD
-http://103.90.220.236/vovlive/tv1live.m3u8 
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/chunklist_w418581894.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Vie_Gi%E1%BA%A3i_Tr%C3%AD_logo_2019.png/revision/latest/scale-to-width-down/1000?cb=20220411015940&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",  VTVcab 1 - Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
