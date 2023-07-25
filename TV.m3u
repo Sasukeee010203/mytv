@@ -267,11 +267,11 @@ https://code.vthanhtivi.pw/getlink/fptplay/binh-duong-2/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://code.vthanhtivi.pw/getlink/fptplay/binh-duong-3/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/BTV4_logo_03-2022.png/revision/latest/scale-to-width-down/1000?cb=20220309025646&path-prefix=vi", Bình Dương 4
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://code.vthanhtivi.pw/getlink/fptplay/imovie-hd/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/binh-duong-4/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong6" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f7/BTV6_2022.png/revision/latest/scale-to-width-down/1000?cb=20221231045716&path-prefix=vi", Bình Dương 6
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://code.vthanhtivi.pw/getlink/fptplay/btv6/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/btv6/playlist.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NFxEKVl.png", Bình Dương 9 - An Viên TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
@@ -345,6 +345,13 @@ http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/History_TV_2022.png/revision/latest?cb=20230205101710&path-prefix=vi", History HD
 http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-id="ngchd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/National_Geographic_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20221214045051&path-prefix=vi", National Geographic HD
+http://live.vthanhtivi.pw/natgeo
+#EXTINF:-1 tvg-id="ngchd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/National_Geographic_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20221214045051&path-prefix=vi", National Geographic HD Dự phòng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8
+#EXTINF:-1 tvg-id="ngwhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b5/National_Geographic_Wild_2020.png/revision/latest/scale-to-width-down/1000?cb=20221214045059&path-prefix=vi", Nat Geo Wild HD
+http://live.vthanhtivi.pw/ngw
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png", Box Movie 1
 http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
 #https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
