@@ -374,25 +374,4 @@ https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest?cb=20220610090510&path-prefix=vi", TV5Monde
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/tv5-monde-asie/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi  
-http://code.vthanhtivi.pw/getlink/jptvvn/15/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax  
-https://code.vthanhtivi.pw/getlink/jptvvn/37/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="wowowplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png", WOWOW Plus
-https://code.vthanhtivi.pw/getlink/jptvvn/36/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="nihoneiga" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png", BS Japan Movie Channel  
-https://code.vthanhtivi.pw/getlink/jptvvn/38/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="disneych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg", Disney Channel
-https://code.vthanhtivi.pw/getlink/jptvvn/39/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="homedrama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル / Home Drama Channel 
-https://code.vthanhtivi.pw/getlink/jptvvn/59/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="toeich" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル / Toei Channel
-https://code.vthanhtivi.pw/getlink/jptvvn/58/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 / Eisei Gekijo 
-https://code.vthanhtivi.pw/getlink/jptvvn/57/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", 映画・チャンネルNECO / Neco 
-https://code.vthanhtivi.pw/getlink/jptvvn/56/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="thecinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", ザ・シネマ / The Cinema 
-https://code.vthanhtivi.pw/getlink/jptvvn/141/playlist.m3u8
-#EXTINF:-1 group-title="Nhật Bản" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス / Movie Plus
-https://code.vthanhtivi.pw/getlink/jptvvn/49/playlist.m3u8
+
