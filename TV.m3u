@@ -130,7 +130,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/12/SCTV14_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220428035033&path-prefix=vi", SCTV14
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e7.endpoint.cdn.sctvonline.vn/live/SCTV15HD/playlist.m3u8
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/SCTV15_SSport_2_2020.png/revision/latest/scale-to-width-down/1000?cb=20220805120238&path-prefix=vi", SCTV15
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/SCTV15HD/playlist.m3u8
