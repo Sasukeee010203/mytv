@@ -246,7 +246,7 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://1632816226.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYmVudHJlLmFkbS40ODBwLnRtcyIsImV4cCI6MTY5MjY5NzcyOX0.eq5Y9Gbrr7mOG4v9W-hmCZuWG-kbD2xX5Zn_uoAv5c4-/bentre.adm.480p.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Soe6MC8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/402/auto/dvr-${start}-${offset}.m3u8", Bình Dương 1 
-https://code.vthanhtivi.pw/getlink/mytv/402/hd.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/BINHDUONG1-SD-ABR/HTV-ABR/BINHDUONG1-SD-720p/chunks.m3u8?e=1692707904&st=rhWyKHimRweP7p6aPiAIzw
 #EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pEaPECX.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/38/auto/dvr-${start}-${offset}.m3u8", Bình Dương 2 
 https://code.vthanhtivi.pw/getlink/tv360/43/2.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/BTV3_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20221127045845&path-prefix=vi", Bình Dương 3
