@@ -241,7 +241,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/35/2.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương" tvg-logo="https://i.ibb.co/P4xgSCG/113.png" catchup="append" catchup-days="2" catchup-source="https://tv.thbl.vn/replay/index.php/tv/${start}_${end}.m3u8", Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8 
-#EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo=" https://i.imgur.com/l8Ae26m.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/tonghop/thbt/dvr-${start}-${offset}.m3u8", Bến Tre
+#EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo=" https://static.wikia.nocookie.net/logos/images/e/e6/THBT_HD_%2815-05-2023_-_Logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest?cb=20230517225347&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/tonghop/thbt/dvr-${start}-${offset}.m3u8", Bến Tre
 https://code.vthanhtivi.pw/getlink/tv360/40/2.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Soe6MC8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/402/auto/dvr-${start}-${offset}.m3u8", Bình Dương 1 
 https://code.vthanhtivi.pw/getlink/tv360/42/2.m3u8
@@ -267,7 +267,7 @@ http://103.90.220.236/bptvlive/tv2live.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="Địa Phương" tvg-logo="https://i.ibb.co/6stS2Qx/126.png", Cần Thơ
 https://tv.tchgroup.vn/live/tv_web/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/Logo_TH%C4%90T1_HD_%C4%90%E1%BB%93ng_Th%C3%A1p_%28B%E1%BA%A3n_3%29.png/revision/latest/scale-to-width-down/1000?cb=20230104230449&path-prefix=vi", Đồng Tháp 1
+#EXTINF:-1 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/TH%C4%90T1_logo_2023.png/revision/latest?cb=20230810114312&path-prefix=vi", Đồng Tháp 1
 https://code.vthanhtivi.pw/getlink/fptplay/dong-thap/chunklist_b5000000.m3u8
 #http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://i.ibb.co/VDZdXYL/137.png", Đồng Tháp 2
