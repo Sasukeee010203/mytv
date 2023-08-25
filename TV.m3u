@@ -268,11 +268,11 @@ https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="Địa Phương" tvg-logo="https://i.ibb.co/6stS2Qx/126.png", Cần Thơ
 https://tv.tchgroup.vn/live/tv_web/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/TH%C4%90T1_logo_2023.png/revision/latest?cb=20230810114312&path-prefix=vi", Đồng Tháp 1
-https://code.vthanhtivi.pw/getlink/fptplay/dong-thap/chunklist_b5000000.m3u8
-#http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
+#https://code.vthanhtivi.pw/getlink/fptplay/dong-thap/chunklist_b5000000.m3u8
+http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://i.ibb.co/VDZdXYL/137.png", Đồng Tháp 2
-https://code.vthanhtivi.pw/getlink/fptplay/mien-tay-thdt2/chunklist_b5000000.m3u8
-#http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
+#https://code.vthanhtivi.pw/getlink/fptplay/mien-tay-thdt2/chunklist_b5000000.m3u8
+http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/Logo_HGTV_H%E1%BA%ADu_Giang_09-2021.png/revision/latest/scale-to-width-down/1000?cb=20221101130737&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/181/auto/dvr-${start}-${end}.m3u8" , Hậu Giang TV
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:-1 tvg-id="kiengiang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/KG_Kien_Giang_%28B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/1000?cb=20211021030223&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tv.kgtv.vn/replay/index2.php/kgtv/${start}_${end}.m3u8", Kiên Giang
@@ -285,7 +285,7 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/STV1_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20211020141313&path-prefix=vi", Sóc Trăng 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://115.78.3.164:8088/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa Phương" tvg-logo=" https://i.ibb.co/HF1XqG3/174.png ", Tây Ninh TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/tay-ninh-3/playlist.m3u8
