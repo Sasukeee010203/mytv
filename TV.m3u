@@ -303,7 +303,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://i.ibb.co/WfkF17J/129.pngs/129.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/60/auto/dvr-${start}-${offset}.m3u8", Đà Nẵng 2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dc/%C4%90N1-RTV_HD.png/revision/latest/scale-to-width-down/1000?cb=20211025150543&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/404/auto/dvr-${start}-${offset}.m3u8", Đồng Nai 1
-https://code.vthanhtivi.pw/getlink/mytv/404/hd.m3u8
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0f/%C4%90N2-RTV_HD.png/revision/latest/scale-to-width-down/1000?cb=20211025160444&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/95/auto/dvr-${start}-${offset}.m3u8", Đồng Nai 2
 https://code.vthanhtivi.pw/getlink/tv360/255/3.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/%C4%90N3_logo_2018_v2.png/revision/latest/scale-to-width-down/1000?cb=20211207103043&path-prefix=vi", Đồng Nai 3
