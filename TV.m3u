@@ -285,7 +285,7 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/STV1_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20211020141313&path-prefix=vi", Sóc Trăng 1
 http://live.vthanhtivi.pw/stv1/index.m3u8
-#EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/STV2_HD.png/revision/latest?cb=20211207102828&path-prefix=vi", STV2 HD | TH Sóc Trăng
+#EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/STV2_HD.png/revision/latest?cb=20211207102828&path-prefix=vi", Sóc Trăng 2
 http://live.vthanhtivi.pw/stv2/index.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa Phương" tvg-logo=" https://i.ibb.co/HF1XqG3/174.png ", Tây Ninh TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
