@@ -295,7 +295,7 @@ http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF:-1 tvg-id="travinh" group-title="Địa Phương" tvg-logo="https://i.ibb.co/hHh1gDQ/181.png", Trà Vinh
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1119087720.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/latest/scale-to-width-down/1200?cb=20220624075054&path-prefix=vi", Trà Vinh 2
-https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w901611008.m3u8
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w794063052.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="Địa Phương" tvg-logo="https://i.ibb.co/vkyXFLS/109.png", Bà Rịa Vũng Tàu
 http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://i.ibb.co/TRhDWXc/128.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/90/auto/dvr-${start}-${offset}.m3u8", Đà Nẵng 1 HD
