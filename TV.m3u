@@ -190,13 +190,11 @@ https://code.vthanhtivi.pw/getlink/tv360/202/0.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtc9-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/MJrqbZc.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc10-1/dvr-${start}-${offset}.m3u8", VTC10 HD
-#EXTVLCOPT:http-user-agent="Bear TV"
 https://1117141481.vnns.net/VTC10/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/VTC12.png/revision/latest?cb=20200326042244", VTC12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtc12/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://i.imgur.com/xc2G48h.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc13-hd/dvr-${start}-${offset}.m3u8", VTC13 HD
-#EXTVLCOPT:http-user-agent="Bear TV"
 https://1117141481.vnns.net/VTC13/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/GjrYjqe.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc14-hd/dvr-${start}-${offset}.m3u8", VTC14 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -309,17 +307,17 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w937830901_b1384000.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/%C4%90N3_logo_2018_v2.png/revision/latest/scale-to-width-down/1000?cb=20211207103043&path-prefix=vi", Đồng Nai 3
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png", HBO HD
-http://6.tcp.us-cal-1.ngrok.io:17801/hbo/index.m3u8
+http://vthanhtivi.pw:8080/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://i.ibb.co/52qD5Hh/cinemax.png", Cinemax HD
-http://6.tcp.us-cal-1.ngrok.io:17801/cinemax/index.m3u8
+http://vthanhtivi.pw:8080/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Animal_Planet_2019.png/revision/latest/scale-to-width-down/1000?cb=20221115045307&path-prefix=vi", Animal Planet
-http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
+http://vthanhtivi.pw:8080/animal/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20211220011651&path-prefix=vi", Animax HD
-http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
+http://vthanhtivi.pw:8080/animax/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
-http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
+http://vthanhtivi.pw:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20221115045308&path-prefix=vi", Discovery
-http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
+http://vthanhtivi.pw:8080/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/Discovery_Asia.png/revision/latest?cb=20211030101622&path-prefix=vi", Discovery Asia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -332,7 +330,7 @@ http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b5/National_Geographic_Wild_2020.png/revision/latest/scale-to-width-down/1000?cb=20221214045059&path-prefix=vi", Nat Geo Wild HD
 http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="Ẩm thực" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/Asian_Food_Network_logo.png/revision/latest?cb=20220226091253&path-prefix=vi", Asian Food Network
-https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/215/2.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png", Box Movie 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -356,17 +354,17 @@ http://live-vnp.vthanhtivi.pw:18001/BOX_HITS/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ9rZpenmsKZnaKZm6mdlZtoXmJmYw==&time=1693493587&tv360&id=239
 http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/AXN_2015.png/revision/latest?cb=20221214051545&path-prefix=vi", AXN HD
-http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
+http://vthanhtivi.pw:8080/axn/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/CinemaWorld_2022.png/revision/latest?cb=20220707061525&path-prefix=vi", CinemaWorld
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZKBiY5qhl8KZnaKZm6mdlZtoXmJmYw==&time=1692500824&vieon&id=cinema-world
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBmZ5iglsKZnaKZnaidlKJjXmJrYg==&time=1694544613&vieon&id=cinema-world
+https://liveott.msky.vn/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 tvg-id="fashionhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Fashion_TV.png/revision/latest?cb=20220206052551&path-prefix=vi", Fashion TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZKBiY5qhl8KZnaKZm6mdlZtoXmJmYw==&time=1692500824&vieon&id=fashiontv
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBmZ5iglsKZnaKZnaidlKJjXmJrYg==&time=1694544613&vieon&id=fashiontv
+https://liveott.msky.vn/live_dzones/ftv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hits" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/HITS.png/revision/latest?cb=20221225101819&path-prefix=vi", HITS
 https://code.vthanhtivi.pw/getlink/tv360/107/2.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/200?cb=20211127035204&path-prefix=vi", HGTV
@@ -376,20 +374,20 @@ https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TLC.png/revision/latest/scale-to-width-down/180?cb=20220127035643&path-prefix=vi", TLC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZKBiY5qhl8KZnaKZm6mdlZtoXmJmYw==&time=1692500824&vieon&id=travel-living
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBmZ5iglsKZnaKZnaidlKJjXmJrYg==&time=1694544613&vieon&id=travel-living
+https://liveott.msky.vn/live_dzones/tlc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/Warner_TV.png/revision/latest/scale-to-width-down/200?cb=20221115050428&path-prefix=vi", Warner TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZKBiY5qhl8KZnaKZm6mdlZtoXmJmYw==&time=1692500824&vieon&id=warner-tv
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBmZ5iglsKZnaKZnaidlKJjXmJrYg==&time=1694544613&vieon&id=warner-tv
+https://liveott.msky.vn/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/1124px-Arirang-TV-Logo.svg.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/CNN.png/revision/latest/scale-to-width-down/250?cb=20211228095017&path-prefix=vi", CNN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZJ9nY5qlk8KZnaKZm6mdlZtoXmJmYw==&time=1692450860&vieon&id=cnn-1
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBmZ5iglsKZnaKZnaidlKJjXmJrYg==&time=1694544613&vieon&id=cnn-1
+https://liveott.msky.vn/live_dzones/cnn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/CNA_logo_2019.png/revision/latest?cb=20220219054404&path-prefix=vi", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20120227170040", DW
