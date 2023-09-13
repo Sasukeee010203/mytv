@@ -307,22 +307,22 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w937830901_b1384000.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/%C4%90N3_logo_2018_v2.png/revision/latest/scale-to-width-down/1000?cb=20211207103043&path-prefix=vi", Đồng Nai 3
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png", HBO HD
-http://vthanhtivi.pw:8080/hbo/index.m3u8
+http://vthanhtivi.pw:5000/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="https://i.ibb.co/52qD5Hh/cinemax.png", Cinemax HD
-http://vthanhtivi.pw:8080/cinemax/index.m3u8
+http://vthanhtivi.pw:5000/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Animal_Planet_2019.png/revision/latest/scale-to-width-down/1000?cb=20221115045307&path-prefix=vi", Animal Planet
 http://vthanhtivi.pw:8080/animal/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20211220011651&path-prefix=vi", Animax HD
-http://vthanhtivi.pw:8080/animax/index.m3u8
+http://vthanhtivi.pw:5000/animax/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
-http://vthanhtivi.pw:8080/cartoon/index.m3u8
+http://vthanhtivi.pw:5000/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20221115045308&path-prefix=vi", Discovery
-http://vthanhtivi.pw:8080/discovery/index.m3u8
+http://vthanhtivi.pw:5000/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/Discovery_Asia.png/revision/latest?cb=20211030101622&path-prefix=vi", Discovery Asia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZKBiY5qhl8KZnaKZm6mdlZtoXmJmYw==&time=1692500824&vieon&id=discovery-asia
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqFkZJSklMKZnaKZnaidlKJjXmJrYg==&time=1694621251&vieon&id=discovery-asia
+https://liveott.msky.vn/live_dzones/dscasia.smil/manifest.mpd
 #EXTINF:-1 tvg-id="historyhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/History_TV_2022.png/revision/latest?cb=20230205101710&path-prefix=vi", History HD
 http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/National_Geographic_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20221214045051&path-prefix=vi", National Geographic HD
@@ -334,31 +334,29 @@ https://code.vthanhtivi.pw/getlink/tv360/215/2.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png", Box Movie 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ9rZpenmsKZnaKZm6mdlZtoXmJmYw==&time=1693493587&tv360&id=159
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqFkZJSklMKZnaKZnaidlKJjXmJrYg==&time=1694621251&tv360&id=159
 http://code.vthanhtivi.pw/getlink/tv360_2/159/manifest.mpd
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Hollywood_Classics_logo_2018.png/revision/latest?cb=20221120111928&path-prefix=vi", Hollywood Classics
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ9rZpenmsKZnaKZm6mdlZtoXmJmYw==&time=1693493587&tv360&id=160
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqFkZJSklMKZnaKZnaidlKJjXmJrYg==&time=1694621251&tv360&id=160
 http://code.vthanhtivi.pw/getlink/tv360_2/160/manifest.mpd
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://i.ibb.co/Wny9G2b/itbox.png", In The Box
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ9rZpenmsKZnaKZm6mdlZtoXmJmYw==&time=1693493587&tv360&id=235
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqFkZJSklMKZnaKZnaidlKJjXmJrYg==&time=1694621251&tv360&id=235
 http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
-#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png", Box Hits
-http://live-vnp.vthanhtivi.pw:18001/BOX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png", Box Hits
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ9rZpenmsKZnaKZm6mdlZtoXmJmYw==&time=1693493587&tv360&id=239
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqFkZJSklMKZnaKZnaidlKJjXmJrYg==&time=1694621251&tv360&id=239
 http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/AXN_2015.png/revision/latest?cb=20221214051545&path-prefix=vi", AXN HD
-http://vthanhtivi.pw:8080/axn/index.m3u8
+http://vthanhtivi.pw:5000/axn/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/CinemaWorld_2022.png/revision/latest?cb=20220707061525&path-prefix=vi", CinemaWorld
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBmZ5iglsKZnaKZnaidlKJjXmJrYg==&time=1694544613&vieon&id=cinema-world
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqFkZJSklMKZnaKZnaidlKJjXmJrYg==&time=1694621251&vieon&id=cinema-world
 https://liveott.msky.vn/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 tvg-id="fashionhd" group-title="Giải trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Fashion_TV.png/revision/latest?cb=20220206052551&path-prefix=vi", Fashion TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
