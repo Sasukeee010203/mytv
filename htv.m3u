@@ -1,2 +1,3 @@
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.hplus.com.vn/htvonline/htv7hd.1080p.nimble.tms/chunklist.m3u8?st=svr3JRsDdPJ7lljGpT4H5Q&e=1694642486
