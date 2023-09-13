@@ -329,11 +329,11 @@ http://vthanhtivi.pw:5000/discovery/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqFkZJSklMKZnaKZnaidlKJjXmJrYg==&time=1694621251&vieon&id=discovery-asia
 https://liveott.msky.vn/live_dzones/dscasia.smil/manifest.mpd
 #EXTINF:-1 tvg-id="historyhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/History_TV_2022.png/revision/latest?cb=20230205101710&path-prefix=vi", History HD
-http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
+http://vthanhtivi.pw:5000/history/index.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/National_Geographic_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20221214045051&path-prefix=vi", National Geographic HD
-http://live-vnp.vthanhtivi.pw:18001/NATGEO_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:5000/NATGEO_HD/index.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b5/National_Geographic_Wild_2020.png/revision/latest/scale-to-width-down/1000?cb=20221214045059&path-prefix=vi", Nat Geo Wild HD
-http://live-vnp.vthanhtivi.pw:18001/NATGEO_WILD_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:5000/NATGEO_WILD_HD/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="Ẩm thực" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/Asian_Food_Network_logo.png/revision/latest?cb=20220226091253&path-prefix=vi", Asian Food Network
 https://code.vthanhtivi.pw/getlink/tv360/215/2.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png", Box Movie 1
