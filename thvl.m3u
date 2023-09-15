@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/JmLmBB6.png"  catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl1/dvr-${start}-${offset}.m3u8", Vĩnh Long 1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://live3.thvli.vn/mrm3CzzzkuH39EoE3zrkmw/1694805729/thvli/thvl1-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/EJwWXul.png"  catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl2/dvr-${start}-${offset}.m3u8", Vĩnh Long 2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://live3.thvli.vn/qRIgfXyQ-XifbL-Pa9PLvQ/1694806961/thvli/thvl2-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/ZJyrka9.png"  catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl3/dvr-${start}-${offset}.m3u8", Vĩnh Long 3 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://live3.thvli.vn/hWmRKBmC9VOiGT0R_2zCCw/1694806753/thvli/thvl3-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THVL4_HD_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411075604&path-prefix=vi"  catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl4/dvr-${start}-${offset}.m3u8", Vĩnh Long 4 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://live3.thvli.vn/86VDXP3Fxawva5J1qMxIOw/1694806814/thvli/thvl4-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
