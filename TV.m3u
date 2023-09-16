@@ -11,9 +11,7 @@ https://live-ali2.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
 https://live-ali2.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THVL4_HD_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411075604&path-prefix=vi"  catchup="append" catchup-days="7" catchup-source="https://code.vthanhtivi.pw/xemlai/thvli/thvl4/dvr-${start}-${offset}.m3u8", Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#https://live-ali2.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
-#http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
-https://live-zlr1.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8?timestamp=1694890548&token=35cfbd0ab1d84e04a4e68a5de7360770&uid=111771976
+http://live-ali2.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vZYlGIW.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
