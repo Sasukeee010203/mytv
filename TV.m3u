@@ -214,7 +214,7 @@ https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/Y8mr4Hf/HTV-TT.png", HTV Thể Thao
-https://code.vthanhtivi.pw/getlink/tv360/195/playlist.m3u8
+https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-5M.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://i.ibb.co/y4Y5SRF/htvkey.webp", HTV Key
 https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://i.ibb.co/gwFXPvh/HTVC-CANHAC.png", HTVC Ca nhạc HD
@@ -236,7 +236,7 @@ https://code.vthanhtivi.pw/getlink/tv360/35/2.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương" tvg-logo="https://i.ibb.co/P4xgSCG/113.png", Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8 
 #EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo=" https://static.wikia.nocookie.net/logos/images/e/e6/THBT_HD_%2815-05-2023_-_Logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest?cb=20230517225347&path-prefix=vi", Bến Tre
-https://code.vthanhtivi.pw/getlink/tv360/40/2.m3u8
+https://1632816226.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTU2NjkxODUsInVyaSI6Ii9iZW50cmUuYWRtLjQ4MHAudG1zIn0.le4adt0MVkpK_VXVeu0BX8bPbcC9HPX61_cNoXyqhY0-/bentre.adm.480p.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Soe6MC8.png", Bình Dương 1 
 https://code.vthanhtivi.pw/getlink/tv360/42/2.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pEaPECX.png", Bình Dương 2 
