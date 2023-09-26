@@ -3,10 +3,10 @@
 https://live-ali2.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/EJwWXul.png", Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live3.thvli.vn/HR_DL-hXHbyLYTzhTy8fRg/1695670936/thvli/thvl2-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/723110f45c1f50e87b233ef13eed12ae/1695792548788/livetv/8782328c0b24e63b80af42e73fabdad5/playlist.m3u8?height=720&codec=hvc
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/ZJyrka9.png", Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live3.thvli.vn/E3bJK7TMzY-5V3Bhcl9VIA/1695670845/thvli/thvl3-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+https://sgn-vnpt-002-livecdn-vthcm-vnd.vieon.vn/72c7f770375f8798fd0774c5a625e49c/1695792580341/livetv/d163c8c091b5c937a0b5789d2be251b4/tracks-v5/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THVL4_HD_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411075604&path-prefix=vi", Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live3.thvli.vn/T7dh_SH0-DHb2LU9PSUduA/1695670970/thvli/thvl4-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
