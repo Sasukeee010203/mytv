@@ -242,7 +242,8 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/BENTRE-SD-ABR/HTV-ABR/BENTRE-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Soe6MC8.png", Bình Dương 1 
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/BINHDUONG1-SD-ABR/HTV-ABR/BINHDUONG1-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pEaPECX.png", Bình Dương 2 
+#EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pEaPECX.png", Bình Dương 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.hplus.com.vn/htvonline/btv2.480p.fpt.tms/chunklist.m3u8?st=6khavMoW3Y9KSpYRRBSFNA&e=1696113422
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/BTV3_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20221127045845&path-prefix=vi", Bình Dương 3
 https://code.vthanhtivi.pw/getlink/nethubtv/9371/1.m3u8
@@ -305,6 +306,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dc/%C4%90N1-RTV_HD.png/revision/latest/scale-to-width-down/1000?cb=20211025150543&path-prefix=vi", Đồng Nai 1
 https://code.vthanhtivi.pw/getlink/fptplay/dong-nai-1/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0f/%C4%90N2-RTV_HD.png/revision/latest/scale-to-width-down/1000?cb=20211025160444&path-prefix=vi", Đồng Nai 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.hplus.com.vn/htvonline/dongnai2.480p.fpt.tms/chunklist.m3u8?st=NcqRhStPPi_oY_K6Eej-8w&e=1696113317
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/%C4%90N3_logo_2018_v2.png/revision/latest/scale-to-width-down/1000?cb=20211207103043&path-prefix=vi", Đồng Nai 3
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
