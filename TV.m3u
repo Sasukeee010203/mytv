@@ -108,7 +108,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab20-vfamily/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab22-life-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/BTV5_HD_logo_07-03-2023.png/revision/latest/scale-to-width-down/200?cb=20230307072459&path-prefix=vi", BTV5 - ON Sports Action
-https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+https://live-on-sigma-drm-v2-vtvlive.gviet.vn/manifest/btv5/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV1_logo_2022.png/revision/latest?cb=20220427230925&path-prefix=vi", SCTV1 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv1/playlist.m3u8
@@ -235,8 +235,9 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/HTVC_Thu%E1%BA%A7n_Vi%E1%BB%87t_2016.png/revision/latest/scale-to-width-down/1000?cb=20220428041703&path-prefix=vi", HTVC Thuần Việt
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="angiang" group-title="Địa Phương" tvg-logo="https://i.ibb.co/SxYXM9b/108.png", An Giang
-https://code.vthanhtivi.pw/getlink/tv360/35/2.m3u8
+#https://live-on-v2-akm.akamaized.net/manifest/an-giang/playlist_576p.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương" tvg-logo="https://i.ibb.co/P4xgSCG/113.png", Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8 
 #EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo=" https://static.wikia.nocookie.net/logos/images/e/e6/THBT_HD_%2815-05-2023_-_Logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest?cb=20230517225347&path-prefix=vi", Bến Tre
@@ -245,7 +246,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/BENTRE-SD-ABR/HTV-ABR/BENTRE-SD-720p/
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/BINHDUONG1-SD-ABR/HTV-ABR/BINHDUONG1-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pEaPECX.png", Bình Dương 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.hplus.com.vn/htvonline/btv2.480p.fpt.tms/chunklist.m3u8?st=6khavMoW3Y9KSpYRRBSFNA&e=1696113422
+https://ott3.nethubtv.vn/live/btv2/chunklist_1.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/BTV3_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20221127045845&path-prefix=vi", Bình Dương 3
 https://code.vthanhtivi.pw/getlink/nethubtv/9371/1.m3u8
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/BTV4_logo_03-2022.png/revision/latest/scale-to-width-down/1000?cb=20220309025646&path-prefix=vi", Bình Dương 4
@@ -308,7 +309,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 https://code.vthanhtivi.pw/getlink/fptplay/dong-nai-1/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0f/%C4%90N2-RTV_HD.png/revision/latest/scale-to-width-down/1000?cb=20211025160444&path-prefix=vi", Đồng Nai 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.hplus.com.vn/htvonline/dongnai2.480p.fpt.tms/chunklist.m3u8?st=NcqRhStPPi_oY_K6Eej-8w&e=1696113317
+https://ott2.nethubtv.vn/live/dongnai2/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/%C4%90N3_logo_2018_v2.png/revision/latest/scale-to-width-down/1000?cb=20211207103043&path-prefix=vi", Đồng Nai 3
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png", HBO HD
