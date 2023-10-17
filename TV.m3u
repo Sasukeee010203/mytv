@@ -101,8 +101,9 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab17-yeah1-tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png", VTVcab 19 - Vie Dramas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vie-dramas-hd/playlist.m3u8
+
+#https://code.vthanhtivi.pw/getlink/vieon/vie-dramas-hd/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/viedramas/81930.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/ON_VFamily_15-05-2023.png/revision/latest/scale-to-width-down/1000?cb=20230703100815&path-prefix=vi", ON VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab20-vfamily/playlist.m3u8
