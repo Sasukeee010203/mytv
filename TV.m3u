@@ -16,11 +16,13 @@ https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv1-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/qWWpYRR.png", VTV2
-http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
-#https://code.vthanhtivi.pw/getlink/vieon/vtv2-hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv2-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png", VTV3
-http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
-#https://code.vthanhtivi.pw/getlink/vieon/vtv3-hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv3-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/WsLLmR2.png", VTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
@@ -297,14 +299,13 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://i.ibb.co/yR46snn/158.png", Long An
-https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+https://live.la34.com.vn/live/mediatech-transmux.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/STV1_HD_logo.png/revision/latest/scale-to-width-down/1000?cb=20211020141313&path-prefix=vi", Sóc Trăng 1
 http://vthanhtivi.pw:5000/stv1/index.m3u8
 #EXTINF:-1 tvg-id="soctrang2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/STV2_HD.png/revision/latest?cb=20211207102828&path-prefix=vi", Sóc Trăng 2
 http://vthanhtivi.pw:5000/stv2/index.m3u8
 #EXTINF:-1 tvg-id="tayninh" group-title="Địa Phương" tvg-logo=" https://i.ibb.co/HF1XqG3/174.png ", Tây Ninh TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/tay-ninh-3/playlist.m3u8
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 #EXTINF:-1 tvg-id="tiengiang" group-title="Địa Phương" tvg-logo="https://i.ibb.co/2WDfq3p/180.png", Tiền Giang
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF:-1 tvg-id="travinh" group-title="Địa Phương" tvg-logo="https://i.ibb.co/hHh1gDQ/181.png", Trà Vinh
