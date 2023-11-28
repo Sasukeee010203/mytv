@@ -372,15 +372,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="Ẩm thực" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/Asian_Food_Network_logo.png/revision/latest?cb=20220226091253&path-prefix=vi", Asian Food Network
 https://code.vthanhtivi.pw/getlink/tv360/215/2.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://i.ibb.co/gFc8c04/BM1-M.png", Box Movie 1
-http://asia.vthanhtivi.pw/Box_Movie_1/mpegts
+http://stream.vthanhtivi.pw/Box_Movie_1/mpegts
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Hollywood_Classics_logo_2018.png/revision/latest?cb=20221120111928&path-prefix=vi", Hollywood Classics
-http://asia.vthanhtivi.pw/Hollywood_Classics/mpegts
+http://stream.vthanhtivi.pw/Hollywood_Classics/mpegts
 #https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://i.ibb.co/Wny9G2b/itbox.png", In The Box
-http://asia.vthanhtivi.pw/In_The_Box/mpegts
+http://stream.vthanhtivi.pw/In_The_Box/mpegts
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://i.ibb.co/1swj1ws/box-hits.png", Box Hits
-
+http://stream.vthanhtivi.pw/Box_Hits/mpegts
 #EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7c/Planet_Earth_logo.png/revision/latest/scale-to-width-down/1000?cb=20220714132655&path-prefix=vi", Planet Earth
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
