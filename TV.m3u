@@ -69,7 +69,8 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab2-on-phim-viet/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://hotro.kplus.vn/media/article/DUPKOwWNkP6T7tu0WDIzVdoso6F7vjfc.png", ON Sports HD
 
 #https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
-https://code.vthanhtivi.pw/getlink/onlive/onsports/85757.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onsports/85757.m3u8
+http://cdn.vthanhtivi.pw/ON_Sports/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/ON_Movies_logo_17-05-2023.png/revision/latest/scale-to-width-down/1000?cb=20230518112918&path-prefix=vi", ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab4-phim-dac-sac/playlist.m3u8
@@ -80,7 +81,8 @@ https://code.vthanhtivi.pw/getlink/onlive/echannel/85739.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/ON_Sports%2B_logo_10-08-2023.png/revision/latest?cb=20230816042706&path-prefix=vi", ON Sports+
 
 #https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
-https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/071123.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/071123.m3u8
+http://cdn.vthanhtivi.pw/ON_Sports_Plus/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/84/ON_O2TV_logo_2D.png/revision/latest/scale-to-width-down/1000?cb=20230518113011&path-prefix=vi", ON O2TV
 
 #https://code.vthanhtivi.pw/getlink/vieon2/vtvcab7/playlist.m3u8
@@ -102,7 +104,8 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab15/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20230104022210&path-prefix=vi", ON Football HD
 
 #https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
-https://code.vthanhtivi.pw/getlink/onlive/onfootball/85755.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onfootball/85755.m3u8
+http://cdn.vthanhtivi.pw/ON_Football/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest?cb=20230610014951&path-prefix=vi", ON Trending TV
 
 #https://code.vthanhtivi.pw/getlink/vieon2/vtvcab17-yeah1-tv/playlist.m3u8
