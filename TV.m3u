@@ -308,7 +308,8 @@ https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/chunkli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Sa
 https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="Địa Phương" tvg-logo="https://i.ibb.co/6stS2Qx/126.png", Cần Thơ
-https://tv.tchgroup.vn/live/tv_web/chunklist.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/CANTHO-SD-ABR/HTV-ABR/CANTHO-SD-720p/chunks.m3u8
+#https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/TH%C4%90T1_logo_2023.png/revision/latest?cb=20230810114312&path-prefix=vi", Đồng Tháp 1
 #https://code.vthanhtivi.pw/getlink/fptplay/dong-thap/chunklist_b5000000.m3u8
 https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w834228544.m3u8
